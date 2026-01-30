@@ -1,0 +1,5 @@
+name,email,phone,dob,anniversary,notes,investments
+"John Doe",john@example.com,+1234567890,1980-01-01,2005-05-20,"VIP customer","[]"
+"Jane Smith",jane@acme.com,+1987654321,1990-06-15,2015-06-15,"Prefers email","FD;SIP"
+"Bob NoEmail",, +447700900000,1975-12-30,,"No email on file","{\"savings\":1000}"
+"Alice Example",alice@example.com,,1988-03-10,2012-03-10,,"SIP,FD"
